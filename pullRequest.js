@@ -1,3 +1,8 @@
 console.log("Hi vamsi how are u");
+
 console.log("Goood");
-console.log("Added One line of code")'
+function ravi(){
+ console.log("ravi is called");
+}
+console.log("Added One line of code")
+console.log("The code is done");
